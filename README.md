@@ -1,6 +1,8 @@
 # unity-debug-console
 
-Simple debug console for Unity
+Simple debug console for Unity.
+
+Developed [live on stream](https://twitch.tv/malimore) after running into the need for debug commands.
 
 # How to install
 
