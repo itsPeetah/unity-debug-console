@@ -13,6 +13,7 @@ Simple debug console for Unity
 
 - Add the debug console command attribute to any **public static (void)** method.
   - The method should only have a single `string[]` parameter.
+  - The DebugConsoleCommandAttribute class is contained in the ItsPeetah.DebugConsole namespace, you might want to add a `using ItsPeetah.DebugConsole;` instruction at the top of your script
 - Add the console prefab to your scene.
 - The first word that will be typed into the input field will be the command, any following words will be the arguments.
   - the command should not contain space characters
