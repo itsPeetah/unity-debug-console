@@ -1,0 +1,14 @@
+{
+    "name": "com.itspeetah.unity-debug-console",
+    "version": "1.0.0",
+    "displayName": "Debug Console",
+    "description": "A simple debug console to which any public static method can added to to test it during play mode.",
+    "unity": "2021.3",
+    "keywords": [],
+    "author": {
+        "name": "ItsPeetah",
+        "url": "https://github.com/itspeetah"
+    },
+    "type": "tool",
+    "hideInEditor": false
+}
